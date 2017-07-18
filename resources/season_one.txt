@@ -1,0 +1,117 @@
+Navigation Links :
+- Text : "Home",       href: "index.html"
+- Text : "Characters", href: "characters.html"
+- Text : "Season One", href: "season_one.html"
+
+Star vs. the Forces of Evil
+
+Image source: "https://media.giphy.com/media/EqaHCIczZPYKk/giphy.gif?response_id=591e3f75a755c13b580552ba"
+
+Season One
+
+Episoode Number
+Title
+Air Date
+
+<tr>01</tr>
+<tr>"Star Comes to Earth"</tr>
+<tr>March 30, 2015</tr>
+
+<tr>02</tr>
+<tr>"Party With a Pony"</tr>
+<tr>March 30, 2015</tr>
+
+<tr>03</tr>
+<tr>"Match Maker"</tr>
+<tr>March 30, 2015</tr>
+
+<tr>04</tr>
+<tr>"School Spirit"</tr>
+<tr>March 30, 2015</tr>
+
+<tr>05</tr>
+<tr>"Monster Arm"</tr>
+<tr>April 6, 2015</tr>
+
+<tr>06</tr>
+<tr>"The Other Exchange Student"</tr>
+<tr>April 6, 2015</tr>
+
+<tr>07</tr>
+<tr>"Cheer Up, Star"</tr>
+<tr>April 13, 2015</tr>
+
+<tr>08</tr>
+<tr>"Quest Buy"</tr>
+<tr>April 13, 2015</tr>
+
+<tr>09</tr>
+<tr>"Diaz Family Vacation"</tr>
+April 20, 2015
+
+<tr>10</tr>
+<tr>"Brittney's Party"</tr>
+<tr>April 20, 2015
+
+<tr>11</tr>
+<tr>"Mewberty"</tr>
+<tr>June 15, 2015</tr>
+
+<tr>12</tr>
+<tr>"Pixtopia"</tr>
+<tr>June 15, 2015</tr>
+
+<tr>13</tr>
+<tr>"Lobster Claws"</tr>
+<tr>June 22, 2015</tr>
+
+<tr>14</tr>
+<tr>"Sleep Spells"</tr>
+<tr>June 22, 2015</tr>
+
+<tr>15</tr>
+<tr>"Blood Moon Ball"</tr>
+<tr>July 20, 2015</tr>
+
+<tr>16</tr>
+<tr>"Fortune Cookies"</tr>
+<tr>July 20, 2015</tr>
+
+<tr>17</tr>
+<tr>"Freeze Day"</tr>
+<tr>July 27, 2015</tr>
+
+<tr>18</tr>
+<tr>"Royal Pain"</tr>
+<tr>July 27, 2015</tr>
+
+<tr>19</tr>
+<tr>"St. Olga's Reform School for Wayward Princesses"</tr>
+<tr>August 10, 2015</tr>
+
+<tr>20</tr>
+<tr>"Mewnipendance Day"</tr>
+<tr>August 17, 2015</tr>
+
+<tr>21</tr>
+<tr>"The Banagic Incident"</tr>
+<tr>August 17, 2015</tr>
+
+<tr>22</tr>
+<tr>"Interdimensional Field Trip"</tr>
+<tr>September 14, 2015</tr>
+
+<tr>23</tr>
+<tr>"Marco Grows a Beard"</tr>
+<tr>September 14, 2015</tr>
+
+<tr>24</tr>
+<tr>"Storm the Castle"</tr>
+<tr>September 21, 2015</tr>
+
+
+
+Footer Navigation Links :
+- Text : "Home",       href: "index.html"
+- Text : "Characters", href: "characters.html"
+- Text : "Season One", href: "season_one.html"
